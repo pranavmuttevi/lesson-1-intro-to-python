@@ -1,0 +1,4 @@
+ask user to enter number 1 (num1)
+ask user to enter number 2 (num2)
+sum = num1 + num2
+print the sum 
